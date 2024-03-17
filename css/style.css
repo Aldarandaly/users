@@ -1,0 +1,19 @@
+.bg--color {
+    background-color: #212529;
+}
+ul {
+    list-style: none;
+}
+.card {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #6d2bf1;
+    color: white;
+}
+button {
+    border: none;
+    padding: 10px 30px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+}
